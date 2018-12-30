@@ -1,0 +1,5 @@
+version: '2'
+services:
+    www:
+            build: web
+            network_mode: bridge

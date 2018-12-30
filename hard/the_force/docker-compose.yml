@@ -1,0 +1,15 @@
+version: '2'
+services:
+  db:
+    image: mongo
+    container_name: db
+    network_mode: bridge
+
+  www:
+    build: web
+    network_mode: bridge
+    links:
+      - db
+    depends_on:
+      - db
+

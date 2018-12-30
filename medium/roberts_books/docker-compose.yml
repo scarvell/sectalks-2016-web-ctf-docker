@@ -1,0 +1,15 @@
+version: '2'
+services: 
+  db:
+    build: db
+    network_mode: bridge
+    environment:
+      - MYSQL_USER=ctf
+      - MYSQL_PASSWORD=Jie2Roh8ohre3Ahn
+      - MYSQL_DATABASE=ctf
+      - MYSQL_RANDOM_ROOT_PASSWORD=yes
+  www:
+    build: robertsbooks
+    network_mode: bridge
+    links:
+      - db
