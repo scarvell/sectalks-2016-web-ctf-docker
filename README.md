@@ -17,7 +17,7 @@ Please be paitent as each challenge downloads and starts up.
 
 > Why'd it take so long..?
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
 
 > Can I use your CTF challenges else where?
 
