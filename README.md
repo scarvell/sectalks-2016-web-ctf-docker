@@ -7,13 +7,17 @@ This repository contains all the docker-compose files and source code for the we
 
 # Getting started
 
-1. Pull down the repository: `git@github.com:scarvell/sectalks-2016-web-ctf-docker.git`
+1. Pull down the repository: `git clone git@github.com:scarvell/sectalks-2016-web-ctf-docker.git`
 2. `cd` into the challenge directory containing the `docker-compose.yml` file
 3. Run `docker-compose up`
 
 Please be paitent as each challenge downloads and starts up.
 
 # FAQ
+
+> Why'd it take so long..?
+
+¯\_(ツ)_/¯
 
 > Can I use your CTF challenges else where?
 
