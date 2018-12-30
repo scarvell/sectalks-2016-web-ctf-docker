@@ -1,8 +1,8 @@
 <?php
 @session_start();
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+//ini_set('display_errors', 1);
+//ini_set('display_startup_errors', 1);
+//error_reporting(E_ALL);
 require_once 'db.php';
 
 // Setup script to make sure we have data. There's probably a better way
