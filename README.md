@@ -19,13 +19,13 @@ Please be paitent as each challenge downloads and starts up.
 
 ¯\_(ツ)_/¯
 
-> Can I use your CTF challenges else where?
+> Can I reuse your CTF challenges else where?
 
 Probably not. But do feel free to reach out to discuss what you want to use it for.
 
 > Can I stream or produce a write up for these?
 
-Of course! Please ping me on [Twitter](http://twitter.com/menztrual) if you do. Id love to see how you went about solving it.
+Of course! Please ping me on [Twitter](http://twitter.com/menztrual) if you do. I'd love to see how you went about solving it.
 
 > What about "The Illusionist"?
 
